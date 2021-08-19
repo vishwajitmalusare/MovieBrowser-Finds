@@ -1,5 +1,6 @@
-# Getting Started with Create React App
-
+# Movie Browser ( assignment for Finds interview process)
+ 
+This project will using The MovieDB Api (https://www.themoviedb.org/settings/api)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
